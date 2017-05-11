@@ -5,4 +5,5 @@ Authors@R: person("Maxim", "Kochurov", email = "maxim.v.kochurov@gmail.com", rol
 Description: Russian R Markdown preconfigured Template
 Encoding: UTF-8
 LazyData: true
-Depends: knitr, stargazer, github::krlmlr/rprojroot, github::bdemeshev/tikzsetup
+Remotes: github::krlmlr/rprojroot, github::bdemeshev/tikzsetup
+Depends: knitr, stargazer, rprojroot, tikzsetup
