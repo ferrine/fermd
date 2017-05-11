@@ -1,6 +1,6 @@
 ---
 title: "Title"
-author: "Maxim Kochurov"
+author: "Author"
 date: \today
 lang: russian
 graphics: yes
