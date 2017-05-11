@@ -26,8 +26,7 @@ library(knitr)
 library(stargazer)
 tikzsetup::tikzsetup()
 opts_chunk$set(cache=TRUE, echo=FALSE,
-               warning=FALSE
-               )
+               warning=FALSE)
 root <- rprojroot::is_rstudio_project
 ```
 
